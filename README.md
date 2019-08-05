@@ -1,10 +1,10 @@
 # coding_challenge-20
 
-This coding challenge is all about **Building the BEST CSS ANIMATION IN THE WORLD!!**. This month we are going to have fun with some creative CSS animation work. Don't worry, I am going to give you some excellent resources for this challenge so that EVERYBODY can participate. You just need to know basic HTML and CSS for this one. 
+This coding challenge is all about **Building the BEST CSS ANIMATION IN THE WORLD!!** This month we are going to have fun with some creative CSS animation work. Don't worry, I am going to give you some excellent resources for this challenge so that EVERYBODY can participate. You just need to know basic HTML and CSS for this one. 
 
 
 ## What is the Challenge? 
-All you have to do for this challenge, is to create and HTML file (index.html), and a CSS file (style.css) which displays the text "ZTM Family" in the most unique way possible using CSS animations! Sounds simple doesn't it? Well, just to give you some inspiration, [here is a link to my favourite resource when doing CSS animations](https://codemyui.com/tag/text-animation/). Use it as an insipiration or even just copy the CSS of the effect you like best! The most creative entry will receive the below prize!
+All you have to do for this challenge is to create and HTML file (index.html), and a CSS file (style.css) which displays the text "ZTM Family" in the most unique way possible using CSS animations! Sounds simple doesn't it? Well, just to give you some inspiration, [here is a link to my favourite resource when doing CSS animations](https://codemyui.com/tag/text-animation/). Use it as a guide or even just copy the CSS for the effect you like best! The most creative entry will receive the below prizes!
 
 ## Prizes!!
 The most creative 3 entries will receive any one of my current Udemy courses of choice for free! Winners will be announced a week after the coding challenge ends!
