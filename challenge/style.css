@@ -1,0 +1,75 @@
+html { font-size: 1px; }
+body {
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 100rem;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  background-position: 50% 75%;
+  background-size: cover;
+  background: black;
+}
+
+main {
+  position: relative;
+  display: flex;
+}
+
+h1 { margin: 0; }
+.marker, .r, .e1, .s1, .s2, .e2 {
+  animation-timing-function: cubic-bezier(0.15,-0.01, 0.58, 1);
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  will-change: transform;
+}
+
+.text {
+ display: flex;
+ align-content: center;
+ justify-content: center;
+	background: linear-gradient(to right, rgb(201, 50, 163) 40%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	
+}
+
+.marker {
+  position: absolute; top: 4rem; left: -3rem;
+  height: 3rem; width: 200rem;
+  background-color: black;
+  animation-name: marker;
+}
+
+.r { margin-left: 1rem;   animation-name: r; }
+.e1 { margin-left: 7rem; animation-name: e1; }
+.s1 { margin-left: 16rem; animation-name: s1; }
+.s2 { margin-left: 21rem; animation-name: s2; }
+.e2 { margin: 0 36rem 0 42rem; animation-name: e2; }
+
+@keyframes r { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(35rem); }
+}
+@keyframes e1 { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(75rem); }
+}
+@keyframes s1 { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(81rem); }
+}
+@keyframes s2 { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(71rem); }
+}
+@keyframes e2 { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(34rem); }
+}
+@keyframes marker { 
+  0%, 20% { transform: translateX(0); }
+  50%, 70% { transform: translateX(337rem); }
+}
