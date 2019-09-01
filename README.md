@@ -12,10 +12,6 @@ The most creative 3 entries will receive any one of my current Udemy courses of 
 At the end of the challenge, we will post everyone's custom "ZTM Family" text page down below so make sure you read below for the submission guidelines (In *The Rules Are* section)!
 
 ## Submissions:
-
-Cong Liu#4400  
-Other Link  
-http://congliu.xyz/  
    
 CHARAN DASS#9243  
 Github Pages  
