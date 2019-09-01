@@ -13,7 +13,101 @@ At the end of the challenge, we will post everyone's custom "ZTM Family" text pa
 
 ## Submissions:
 
-*submissions will be posted at the end of the month!*
+Cong Liu#4400  
+Other Link  
+http://congliu.xyz/  
+   
+CHARAN DASS#9243  
+Github Pages  
+https://charandass.github.io/challange-20-Css-animation/  
+   
+  
+GMR11#9094  
+Github Repo  
+https://github.com/benkeakos/codechallenge  
+   
+  
+Skida#3173  
+Github Repo  
+https://github.com/seph1603/coding_challenge-20  
+   
+  
+Brittney#1988  
+Github Repo  
+https://github.com/sballgirl11/css-text-animation-challenge  
+Github Pages  
+https://sballgirl11.github.io/css-text-animation-challenge/  
+   
+Abdulsalam#8136  
+Github Repo  
+https://github.com/AbdulsalamAbdulrahman/ztm-family  
+Github Pages  
+https://abdulsalamabdulrahman.github.io/ztm-family/  
+   
+  
+Artem#6384  
+Github Repo  
+https://github.com/Tamplier2911/ZTMCodingChallenge20  
+   
+Tim B#8056  
+Github Repo  
+https://github.com/TimBoudewijns/ZTM-CC-20.git  
+   
+  
+Stefan#6983  
+Github Repo  
+https://github.com/StefanSelfTaught/ZTMCodingChallenge20  
+   
+  
+💥[J] [J]💥#3197  
+Github Repo  
+https://github.com/TheVip/ztm-coding-challenge-20  
+Github Pages  
+https://thevip.github.io/ztm/  
+   
+  
+C_Repou#7041  
+Github Repo  
+https://github.com/ChrRepou/coding_challenge-20  
+   
+  
+Pol#5889  
+Github Repo  
+https://github.com/PaolaArz/codingChallenge-20  
+   
+  
+Walaa#0654  
+Github Repo  
+https://github.com/walaaayyad/ztm-challenge20  
+   
+  
+Calliope#1141  
+Github Repo  
+https://github.com/GiuliaViscardi/ztmchallenge  
+   
+  
+Jan#0686  
+Github Repo  
+https://github.com/Jan710/CC-20  
+   
+nconcode#8373  
+Github Repo  
+https://github.com/nconcode/Coding-Challenge-20  
+   
+dogcatmouse#9095  
+Github Repo  
+https://github.com/jianweilee128/ztm-codingchallenge-20  
+   
+  
+ayralys#0394  
+Github Pages  
+https://sommailaria.github.io/ztm_challenge_20/  
+   
+  
+The_UniCorn#9670  
+Github Repo  
+https://github.com/djw333d/ZTM  
+  
 
 ## The Rules Are:
 
